@@ -1,0 +1,77 @@
+{
+  "items" : [
+    {
+      "sku": 1231234,
+      "image": "",
+      "name": "Indian Terran",
+      "category": "shirt",
+      "price": 400,
+      "availableQuantity": 4,
+      "desc": "Here is the description"
+    },
+    {
+      "sku": 1231235,
+      "image": "",
+      "name": "polo",
+      "category": "shirt",
+      "price": 400,
+      "availableQuantity": 4,
+      "desc": "Here is the description"
+    },
+    {
+      "sku": 1231236,
+      "image": "",
+      "name": "levis",
+      "category": "shirt",
+      "price": 400,
+      "availableQuantity": 4,
+      "desc": "Here is the description"
+    },
+    {
+      "sku": 1231237,
+      "image": "",
+      "name": "US polo",
+      "category": "shirt",
+      "price": 400,
+      "availableQuantity": 4,
+      "desc": "Here is the description"
+    },
+    {
+      "sku": 1231238,
+      "image": "",
+      "name": "Indian Terran",
+      "category": "shirt",
+      "price": 400,
+      "availableQuantity": 4,
+      "desc": "Here is the description"
+    },
+    {
+      "sku": 1231239,
+      "image": "",
+      "name": "UCB",
+      "category": "shirt",
+      "price": 400,
+      "availableQuantity": 4,
+      "desc": "Here is the description"
+    },
+    {
+      "sku": 1231240,
+      "image": "",
+      "name": "arrow",
+      "category": "shirt",
+      "price": 400,
+      "availableQuantity": 4,
+      "desc": "Here is the description"
+    },
+    {
+      "sku": 1231241,
+      "image": "",
+      "name": "UCB",
+      "category": "shirt",
+      "price": 400,
+      "availableQuantity": 4,
+      "desc": "Here is the description"
+    }
+
+  ]
+}
