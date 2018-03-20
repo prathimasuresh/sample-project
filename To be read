@@ -1,0 +1,9 @@
+React	React is a JavaScript library for building user interfaces	https://facebook.github.io/react
+React Router	React Router is a collection of navigational components that compose declaratively with your application	https://github.com/ReactTraining/react-router
+Redux	Redux is a predictable state container for JavaScript apps	https://github.com/redux-saga/redux-saga
+Redux Saga	redux-saga is a library that aims to make application side effects (i.e. asynchronous things like data fetching and impure things like accessing the browser cache) easier to manage, more efficient to execute, simple to test, and better at handling failures	http://yelouafi.github.io/redux-saga
+Reselect	Simple “selector” library for Redux	https://github.com/reactjs/reselect
+ImmutableJS	Immutable.js provides many Persistent Immutable data structures including: List, Stack, Map, OrderedMap, Set, OrderedSet and Record	https://facebook.github.io/immutable-js
+CSS Modules	System to provide support for locally-scoped CSS class names.	https://github.com/css-modules/css-modules
+PostCSS	Built-time processor for transforming CSS source code.	https://github.com/postcss/postcss
+cssnext	PostCSS plugin suite for writing future-proof CSS.
