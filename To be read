@@ -7,3 +7,6 @@ ImmutableJS	Immutable.js provides many Persistent Immutable data structures incl
 CSS Modules	System to provide support for locally-scoped CSS class names.	https://github.com/css-modules/css-modules
 PostCSS	Built-time processor for transforming CSS source code.	https://github.com/postcss/postcss
 cssnext	PostCSS plugin suite for writing future-proof CSS.
+
+
+https://egghead.io/lessons/react-redux-the-single-immutable-state-tree - redux
